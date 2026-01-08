@@ -14,9 +14,9 @@ A modern, production-ready template for building full-stack React applications u
 - 🎉 TailwindCSS for styling
 - 📖 [React Router docs](https://reactrouter.com/)
 
-# Getting Started
+ Getting Started
 
-## Installation
+# Installation
 
 Install the dependencies:
 
@@ -24,7 +24,7 @@ Install the dependencies:
 npm install
 ```
 
-### Development
+## Development
 
 Start the development server with HMR:
 
@@ -34,7 +34,7 @@ npm run dev
 
 Your application will be available at `http://localhost:5173`.
 
-## Building for Production
+# Building for Production
 
 Create a production build:
 
@@ -42,9 +42,9 @@ Create a production build:
 npm run build
 ```
 
-## Deployment
+# Deployment
 
-## Docker Deployment
+# Docker Deployment
 
 To build and run using Docker:
 
@@ -64,7 +64,7 @@ The containerized application can be deployed to any platform that supports Dock
 - Fly.io
 - Railway
 
-## DIY Deployment
+# DIY Deployment
 
 If you're familiar with deploying Node applications, the built-in app server is production-ready.
 
@@ -78,7 +78,7 @@ Make sure to deploy the output of `npm run build`
 │   └── server/    # Server-side code
 ```
 
-# Styling
+ Styling
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
 
