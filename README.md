@@ -24,7 +24,7 @@ Install the dependencies:
 npm install
 ```
 
- Development
+# Development
 
 Start the development server with HMR:
 
@@ -34,7 +34,7 @@ npm run dev
 
 Your application will be available at `http://localhost:5173`.
 
- Building for Production
+# Building for Production
 
 Create a production build:
 
@@ -42,7 +42,7 @@ Create a production build:
 npm run build
 ```
 
- Deployment
+# Deployment
 
  Docker Deployment
 
