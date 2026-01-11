@@ -1,4 +1,4 @@
- Welcome to React Router!
+# Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
@@ -51,7 +51,7 @@ To build and run using Docker:
 ```bash
 docker build -t my-app .
 
-## Run the container
+### Run the container
 docker run -p 3000:3000 my-app
 ```
 
